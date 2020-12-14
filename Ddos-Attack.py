@@ -350,7 +350,7 @@ time.sleep(0.1)
 print "Mengirim virus"
 time.sleep(3)
 
-print "Selamat Kamu Kena Prank Kameranya aku taroh di Hatimu😂😘
+print "Selamat Kamu Kena Prank Kameranya aku taroh di Hatimu😂😘"
 
 print "Selamat Belajar Ngoding Broo"
 
