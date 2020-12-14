@@ -26,7 +26,7 @@ import getpass
 
 sandi = raw_input('Password: ')
 
-if sandi == 'bahaya' and user == 'Ddos':
+if sandi == 'Attack' and user == 'Ddos':
 
     print 'Anda Telah Login'
 
@@ -350,7 +350,7 @@ time.sleep(0.1)
 print "Mengirim virus"
 time.sleep(3)
 
-print "Selamat Kamu Kena Prank Kameranya aku taroh di Hatimu"
+print "Selamat Kamu Kena Prank Kameranya aku taroh di Hp Muu"
 
 print "Selamat Belajar Ngoding Broo"
 
