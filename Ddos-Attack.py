@@ -12,13 +12,13 @@ import os, sys
 
 def wa():
 
-    os.system('xdg-open https://api.whatsapp.com/send?phone=+6281221653540
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+6281221653540&text=Assalamualaikum Bro')
 
 def restart():
 
     ngulang = sys.executable
 
-    os.execl(ngulang, ngulang, *sys.argv
+    os.execl(ngulang, ngulang, *sys.argv)
 
 user = raw_input('ID: ')
 
