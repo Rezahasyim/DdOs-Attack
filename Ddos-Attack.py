@@ -12,7 +12,7 @@ import os, sys
 
 def wa():
 
-    os.system('xdg-open https://api.whatsapp.com/send?phone=+6281221653540&text=Assalamualaikum Bro')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+6281221653540&text=Assalamualaikum')
 
 def restart():
 
@@ -167,52 +167,7 @@ print "Mengirim virus"
 
 time.sleep(0.1)
 
-print "Mengirim virus"
-print "Mengirim virus"
 
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
-
-time.sleep(0.1)
-
-print "Mengirim virus"
 print "Mengirim virus"
 
 time.sleep(0.1)
@@ -257,7 +212,52 @@ print "Mengirim virus"
 
 time.sleep(0.1)
 
+
 print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+print "Mengirim virus"
+
+time.sleep(0.1)
+
+
 print "Mengirim virus"
 
 time.sleep(0.1)
@@ -302,7 +302,7 @@ print "Mengirim virus"
 
 time.sleep(0.1)
 
-print "Mengirim virus"
+
 print "Mengirim virus"
 
 time.sleep(0.1)
