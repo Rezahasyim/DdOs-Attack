@@ -68,13 +68,13 @@ os.system("clear")
 os.system("figlet DdOs")
 
 print
-   = = = = = = = = = = = = = = = = 
- =                                 =
- =                                 =
- = print ("\033[1mAuthor  :Reza"   =
- =                                 =
- = print "\033[1m  :081221653540"  =
- =                                 =
+   = = = = = = = = = = = = = = = = =
+ =                                   =
+ =                                   =
+ =  print ("\033[1mAuthor  :Reza")   =
+ =                                   =
+ =  print ("\033[1m  :081221653540") =
+ =                                   =
   = = = = = = = = = = = = = = = = =
 print
 
