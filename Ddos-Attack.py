@@ -73,9 +73,9 @@ print
  
 
 print ("\033[1mAuthor  :Reza")   
-
-print ("\033[1m  :081221653540") 
-  
+print "Tools Untuk para Jombli xixixi"
+print ("\033[1mWA  :081221653540") 
+print ("figlet IQ10")
  
 print
 
