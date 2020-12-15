@@ -75,7 +75,7 @@ print
 print ("\033[1mAuthor  :Reza")   
 print "Tools Untuk para Jombli xixixi"
 print ("\033[1mWA  :081221653540") 
-print ("figlet IQ10")
+os.system("figlet IQ10")
  
 print
 
